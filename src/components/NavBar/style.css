@@ -1,0 +1,31 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.clicky-nav-bar {
+    background: darkblue;
+    color: white;
+    max-width: 100%;
+    padding: 20px 0px;
+    margin: auto  0;
+}
+
+.clicky-name {
+    font-weight: 900;
+}
+
+.clicky-nav-bar-name,
+.clicky-nav-bar-msg,
+.clicky-nav-bar-results {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
+
+.clicky-name,
+.clicky-msg,
+.clicky-results {
+    font-size: 30px;
+}
