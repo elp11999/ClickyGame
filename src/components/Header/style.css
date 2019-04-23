@@ -1,0 +1,11 @@
+/*
+ *  CSS for the Header component
+ */
+
+.clicky-header {
+    background-color: darkslategray;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 30px 0;
+}
