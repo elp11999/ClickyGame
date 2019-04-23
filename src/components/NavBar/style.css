@@ -12,15 +12,16 @@
     background: darkslateblue;
     color: white;
     width: 100%;
-    padding: 20px 0px;
-    /* 
+    height: auto;
+    padding: 10px 0px;
+    /*
     position: fixed;
     top: 0;
     */
 }
 
 .clicky-name {
-    font-size: 40px;
+    font-size: 3vw;
     font-weight: 900;
 }
 
@@ -34,7 +35,7 @@
 
 .clicky-msg,
 .clicky-results {
-    font-size: 30px;
+    font-size: 2vw;
 }
 
 a {
