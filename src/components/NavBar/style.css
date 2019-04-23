@@ -11,9 +11,12 @@
 .clicky-nav-bar {
     background: darkslateblue;
     color: white;
-    max-width: 100%;
+    width: 100%;
     padding: 20px 0px;
-    margin: auto  0;
+    /* 
+    position: fixed;
+    top: 0;
+    */
 }
 
 .clicky-name {
@@ -36,4 +39,5 @@
 
 a {
     color: white;
+    text-decoration: none;
 }

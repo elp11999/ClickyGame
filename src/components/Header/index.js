@@ -12,10 +12,10 @@ import "./style.css";
 
 // Function to construct the Header component of the UI
 function Header(props) {
-    return(
+    return (
         <div>
             <div className="clicky-header">
-              Click on an image to earn points, but don't click on any more than once!
+              <span>Click on an image to earn points, but don't click on any more than once!</span>
             </div>
         </div>
     );

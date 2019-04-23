@@ -43,17 +43,18 @@ class App extends React.Component {
       // Has super-hero been clicked before (Game over!!!)
       this.setState({ score: 0 });
       this.setState({ selections: [] });
-      this.setState({ message: "Click an image to begin!" });
+      this.setState({ message: "You guessed incorrectly!" });
     } else {
       // Super-hero has not been clicked before (Keep playing!!!)
       this.state.selections.push({id: id});
       this.setState({ score: this.state.selections.length });
       if (this.state.selections.length > this.state.topScore)
         this.setState({ topScore: this.state.selections.length });
+      this.setState({ message: "You guessed correctly!" });
     }    
     
     // Shuffle the super-hero images
-    this.setState({ superHeros: SuperHeros });
+    this.setState({ superHeros: window._.shuffle(SuperHeros) });
   };
 
   // Function to update the DOM
