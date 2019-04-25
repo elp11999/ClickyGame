@@ -9,7 +9,7 @@
 
 * To get started, clone the repository and check out the code.
 
-* To just run the application, use link https://elp11999.github.io/unit-4-game/
+* To just run the application, use link https://elp11999.github.io/clickygame/
 
 * If you have any questions about the project, please contact me at mhenderson557@yahoo.com
 
