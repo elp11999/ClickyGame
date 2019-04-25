@@ -18,7 +18,7 @@ function NavBar(props) {
             <div className="row-fluid clicky-nav-bar">
 
                 <div className="col clicky-nav-bar-name">
-                    <a href="/index"><span className="clicky-name">Clicky Game</span></a>
+                    <a href="/clickygame/"><span className="clicky-name">Clicky Game</span></a>
                 </div>
                 <div className="col clicky-nav-bar-msg">
                     <span className="clicky-msg">{props.message}</span>
