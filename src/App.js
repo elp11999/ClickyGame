@@ -12,6 +12,8 @@
 // Import the React library
 import React from "react";
 
+import "./style.css";
+
 // Import the UI component libraries
 import Wrapper from "./components/Wrapper";
 import NavBar from "./components/NavBar";

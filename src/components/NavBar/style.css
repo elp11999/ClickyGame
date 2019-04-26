@@ -13,7 +13,8 @@
     color: white;
     width: 100%;
     height: auto;
-    padding: 10px 0px;
+    padding: 20px 0px;
+    margin-bottom: 5px;
     position: fixed;
     top: 0;
 }
@@ -21,6 +22,7 @@
 .clicky-name {
     font-size: 3vw;
     font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .clicky-nav-bar-name,
@@ -34,6 +36,7 @@
 .clicky-msg,
 .clicky-results {
     font-size: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
