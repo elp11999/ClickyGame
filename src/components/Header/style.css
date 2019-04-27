@@ -9,132 +9,126 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2vw;
     text-align: center;
-    padding: 10px 0;
+    padding-top: 3px;
     line-height: 1.6;
 }
 
 @media only screen and (max-width: 2640px) {
     .clicky-header { 
-        margin: 7.0rem 0 0 0;
+        margin: 7.1rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 2540px) {
     .clicky-header { 
-        margin: 6.8rem 0 0 0;
+        margin: 6.9rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 2440px) {
     .clicky-header { 
-        margin: 6.6rem 0 0 0;
+        margin: 6.7rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 2340px) {
     .clicky-header { 
-        margin: 6.4rem 0 0 0;
+        margin: 6.5rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 2240px) {
     .clicky-header { 
-        margin: 6.2rem 0 0 0;
+        margin: 6.3rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 2140px) {
     .clicky-header { 
-        margin: 6.0rem 0 0 0;
+        margin: 6.1rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 2040px) {
     .clicky-header { 
-        margin: 5.8rem 0 0 0;
+        margin: 5.9rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1940px) {
     .clicky-header { 
-        margin: 5.6rem 0 0 0;
-    }
-}
-
-@media only screen and (max-width: 1840px) {
-    .clicky-header { 
-        margin: 5.5rem 0 0 0;
+        margin: 5.7rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1740px) {
     .clicky-header { 
-        margin: 5.3rem 0 0 0;
+        margin: 5.5rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1640px) {
     .clicky-header { 
-        margin: 5.1rem 0 0 0;
+        margin: 5.3rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1540px) {
     .clicky-header { 
-        margin: 4.9rem 0 0 0;
+        margin: 5.1rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1440px) {
     .clicky-header { 
-        margin: 4.7rem 0 0 0;
+        margin: 4.9rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1340px) {
     .clicky-header { 
-        margin: 4.5rem 0 0 0;
+        margin: 4.7rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1240px) {
     .clicky-header { 
-        margin: 4.3rem 0 0 0;
+        margin: 4.5rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1140px) {
     .clicky-header { 
-        margin: 4.2rem 0 0 0;
+        margin: 4.3rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 1040px) {
     .clicky-header { 
-        margin: 4.0rem 0 0 0;
+        margin: 4.2rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 940px) {
     .clicky-header { 
-        margin: 3.8rem 0 0 0;
+        margin: 4.0rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 840px) {
     .clicky-header { 
-        margin: 3.6rem 0 0 0;
+        margin: 3.8rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 740px) {
     .clicky-header { 
-        margin: 3.4rem 0 0 0;
+        margin: 3.6rem 0 0 0;
     }
 }
 
 @media only screen and (max-width: 640px) {
     .clicky-header { 
-        margin: 3.2rem 0 0 0;
+        margin: 3.4rem 0 0 0;
     }
 }
